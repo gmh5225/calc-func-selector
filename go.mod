@@ -1,4 +1,4 @@
-module github.com/gmh5225/calc_func_selector
+module github.com/gmh5225/calc-func-selector
 
 go 1.22.5
 
