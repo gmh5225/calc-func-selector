@@ -1,5 +1,5 @@
 # calc-func-selector
-
+Calculate solidity function selector
 
 ## Install
 ``
