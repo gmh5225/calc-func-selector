@@ -1,4 +1,4 @@
-name: Build
+name: Build CI/CD
 
 permissions:
   contents: write
